@@ -1,0 +1,33 @@
+body{
+    background-color: grey;
+}
+
+#firstdiv{
+    
+    background-color: #fff;
+    padding: 15px;
+    
+}
+
+#seconddiv{
+    padding: 5px;
+    border: grey solid;
+    border-width: 1px;
+    margin-right: 700px;
+}
+.inline{
+    display: inline-block;
+}
+
+#thirddiv{
+    padding: 5px;
+    border: grey solid;
+    border-width: 1px;
+    margin-left: 120px;
+}
+
+
+button{
+    margin: 2px;
+    padding: 10px;
+}
